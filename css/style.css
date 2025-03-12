@@ -113,9 +113,41 @@ line-height: 30px;
 
  .bg{
     background-color: #559ead;
-    height: px;
+    
+ }
+ .about h1{
+    margin-top: 150px;
+    font-size: 60px;
+    text-transform: uppercase;
  }
 
+ .about h2{
+    margin-top: 40px;
+    font-size: 20px;
+    line-height: 24px;
+ }
+ .about p{
+    padding-top: 20px;
+ }
+
+ .about ul li{
+    margin-top: 30px;
+    margin-right: 50px;
+    display: inline-block;
+ }
+ .about ul li a{
+    text-decoration: none;
+    font-size: 25px;
+    color: #ffffff; 
+  }
+  .about ul li a i{
+  
+    padding: 7px 10px;
+border-radius: 100px;
+  }
+  .about ul li a i:hover{
+    background: #eb5757;
+  }
          /* 3rd section part start */
 
  .choice{
