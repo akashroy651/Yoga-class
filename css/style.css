@@ -63,3 +63,62 @@ table {
     margin-left: 70px;
     color: white !important;
 }
+
+/* start main-header */
+
+section{
+ 
+    /* background-color: #ffffff; */
+}
+
+
+.main-left{
+    margin-left: 20px;
+    margin-top: 95px;
+    color: #944867;
+}
+
+.main-left h1{
+    font-size: 150px; 
+       
+ } 
+
+ .main-left h2{
+    padding-top: 20px;
+    font-size: 90px;
+    padding-bottom: 55px; 
+   
+}
+.main-left p{
+font-size: 25px;
+line-height: 30px;
+
+}  
+
+.main-left button{
+    margin-top: 28px;
+    border: none;
+    border-radius: 10px;
+    padding: 10px;
+    background-color: #944867;
+    color: white;
+    transition: all 0.3s;
+    cursor: pointer;
+}
+.main-right img{
+    margin-top: 90px;
+}
+
+            /* 2nd section part start */
+
+ .bg{
+    background-color: #559ead;
+    height: px;
+ }
+
+         /* 3rd section part start */
+
+ .choice{
+background-color: bisque;
+height: 500px;
+ }
