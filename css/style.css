@@ -128,10 +128,11 @@ line-height: 30px;
  }
  .about p{
     padding-top: 20px;
+    font-size: 20px;
  }
 
  .about ul li{
-    margin-top: 30px;
+    margin-top: 70px;
     margin-right: 50px;
     display: inline-block;
  }
@@ -152,5 +153,51 @@ border-radius: 100px;
 
  .choice{
 background-color: bisque;
-height: 500px;
+
  }
+ .choice-us h1{
+    
+    font-size: 60px;
+    text-transform: uppercase;
+    padding-top: 150px;
+    color: #865875;
+    margin-bottom: 50px;
+ }
+ .choice-us ul li{
+    font-size: 25px;
+    padding: 0 0 40px 45px;
+    position: relative;
+ }
+ .choice-us ul li i{
+    
+    position: absolute;
+    left: 0;
+ }
+ .choice-us button{
+    margin-top: 35px;
+    background: #944867;
+    color: #ffffff;
+    height: 40px;
+    width: 140px;
+    font-weight: bold;
+    font-size: 20px;
+    border-radius: 20px;
+    border: none;
+ }
+ .choice-img{
+    float: right;
+ }
+        /* 4rd section part start */
+.slogan{
+  text-align: center;
+ }
+.slogan h1{
+    color: #944867;
+    font-size: 40px;
+    font-weight: bold;    
+}
+.slogan h3{
+    font-size: 35px;
+    padding-bottom: 20px;
+    color: #865875;
+}
