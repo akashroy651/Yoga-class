@@ -246,3 +246,34 @@ background-color: #ffffff;
    border-radius: 20px;
    background-color: #944867;
 }
+.yoga{
+   margin-top: 20%;
+}
+.yoga h2{
+   font-size: 60px;
+   font-weight: bold;
+   padding-bottom: 10%;
+}
+.yoga ul li{
+   font-size: 25px;
+   padding: 0 0 40px 45px;
+   position: relative;
+}
+.yoga ul li i{
+   
+   position: absolute;
+   left: 0;
+}
+        /* 6rd section part start */
+
+.center-shop{
+   text-align: center;
+   text-transform: uppercase;
+   font-size: 50px;
+   font-weight: bold;
+}
+.yoga-shop img{
+   display: block;
+   margin-left: auto;
+   margin-right: auto;
+ }
