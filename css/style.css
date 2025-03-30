@@ -210,6 +210,7 @@ background-color: #ffffff;
 }
 .treatment{
    text-align: center;
+   margin-bottom: 90px;
 }
 .treatment h1{
    text-transform: uppercase;
@@ -217,9 +218,31 @@ background-color: #ffffff;
    padding-top: 25px;
    padding-bottom: 20px;
 }
-.treatment-item{
-text-align: center;
+
+        /* 5rd section part start */
+
+.activity{
+   background-color: #559ead;
 }
-.treatment-item img{
- height: 100%;
+.activity-text{
+   padding-left: 12%;
+   margin-top: 25%;
+}
+.activity-text h2{
+   font-size: 40px;
+   color: #ffffff;
+   font-weight: bold;
+   margin-bottom: 10%;
+}
+.activity-text h3{
+   font-size: 25px;
+   color: #ffffff;
+   margin-bottom: 10%;
+}
+.activity-text button{
+   color: #ffffff;
+   border: none;
+   padding: 10px;
+   border-radius: 20px;
+   background-color: #944867;
 }
