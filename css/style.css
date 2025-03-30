@@ -152,7 +152,7 @@ border-radius: 100px;
          /* 3rd section part start */
 
  .choice{
-background-color: bisque;
+background-color: #ffffff;
 
  }
  .choice-us h1{
@@ -206,5 +206,20 @@ background-color: bisque;
    padding-top: 120px;
    font-size: 40px;
    color: #865875;
-   margin-bottom: 70px;
+   padding-bottom: 70px;
+}
+.treatment{
+   text-align: center;
+}
+.treatment h1{
+   text-transform: uppercase;
+   font-weight: bold;
+   padding-top: 25px;
+   padding-bottom: 20px;
+}
+.treatment-item{
+text-align: center;
+}
+.treatment-item img{
+ height: 100%;
 }
