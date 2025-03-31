@@ -271,9 +271,31 @@ background-color: #ffffff;
    text-transform: uppercase;
    font-size: 50px;
    font-weight: bold;
+   margin-bottom: 60px;
 }
 .yoga-shop img{
    display: block;
    margin-left: auto;
    margin-right: auto;
+ }
+ .price{
+   text-align: center;
+ }
+ .price h1{
+   padding-top: 25px;
+   font-size: 50px;
+ }
+ .price h2{
+   padding-top: 20px;
+   font-size: 20px;
+ }
+ .price button{
+   border: none;
+   color: #ffffff;
+   border: none;
+   padding: 6px 15px 6px 15px;
+   border-radius: 20px;
+   background-color: #eb5757;
+   text-transform: uppercase;
+   margin-top: 40px;
  }
